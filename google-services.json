@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "62510227368",
+    "project_id": "utmb-e159f",
+    "storage_bucket": "utmb-e159f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62510227368:android:58a77be6f805933a36079d",
+        "android_client_info": {
+          "package_name": "com.example.tahrimohamedguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62510227368-quvajsuqh2bt7mkvp03mb7rr6bvstt2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCrFK4bcPvWRLaN76sSobFGbRrvtkg1u8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62510227368-quvajsuqh2bt7mkvp03mb7rr6bvstt2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">UTMB</string>
+    <string name="block">Log Out</string>
+    <string name="amphi">Profile</string>
+    <string name="laboratoire">Laboratoire</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="authenticator_app">Authenticator App</string>
+    <string name="email">Email</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="already_registered_login_here">Already Registered ? Login Here</string>
+    <string name="phone">Phone</string>
+    <string name="change_profile">Change Profile</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="full_name">full name</string>
+    <string name="register">register</string>
+
+    <string name="login_account">login account</string>
+    <string name="login">login</string>
+    <string name="new_here_create_account">create new account here</string>
+    <string name="logout">logout</string>
+    <string name="your_name">"your name "</string>
+    <string name="your_email_address">your email address</string>
+    <string name="phone_number">phone number</string>
+    <string name="email_not_verfied">email not verfied</string>
+    <string name="verify_now">verify now</string>
+    <string name="reset_password">reset password</string>
+
+    <string name="sample">Sample</string>
+    <string name="app_developer">App Developer</string>
+    <string name="android_studio">Android Studio</string>
+    <string name="android_studio_android_com" translatable="false">android.studio@android.com</string>
+    <string name="study_nature_love_nature_nclose_to_nature" translatable="false">Study nature, love nature,\nclose to nature</string>
+    <string name="biology" translatable="false">Biology</string>
+    <string name="geography" translatable="false">Geography</string>
+    <string name="school_education" translatable="false">School Education</string>
+    <string name="never_trust_anyone_who_has_not_brought_a_book_with_them" translatable="false">Never trust anyone who has not brought a book with them.</string>
+    <string name="maths" translatable="false">Maths</string>
+    <string name="app_ver_2_0_1" translatable="false">App ver 2.0.1</string>
+    <string name="settings" translatable="false">Settings</string>
+    <string name="kapil_mohan" translatable="false">Kapil Mohan</string>
+    <string name="edit_personal_details" translatable="false">Edit personal details</string>
+    <string name="dark_mode" translatable="false">Dark Mode</string>
+    <string name="profile" translatable="false">Profile</string>
+    <string name="edit_profile" translatable="false">Edit Profile</string>
+    <string name="change_password" translatable="false">Change Password</string>
+    <string name="notifications" translatable="false">Notifications</string>
+
+    <string name="language" translatable="false">Language</string>
+    <string name="logouut" translatable="false">Logout</string>
+    <string name="Import" translatable="false">Import</string>
+    <string name="gallery" translatable="false">Gallery</string>
+    <string name="slideshow" translatable="false">Slideshow</string>
+    <string name="tools" translatable="false">Tools</string>
+    <string name="only_toggle_theme_would_work" translatable="false">Only Toggle Theme would work</string>
+    <string name="share" translatable="false">Share</string>
+    <string name="toggle_theme" translatable="false">Toggle Theme</string>
+    <string name="change_theme">Change Theme</string>
+    <string name="title_activity_main2" translatable="false">Main2Activity</string>
+    <string name="title_home" translatable="false">Home</string>
+    <string name="title_dashboard" translatable="false">Dashboard</string>
+    <string name="title_notifications" translatable="false">Notifications</string>
+    <string name="changer_la_langue">changer la langue</string>
+    <string name="todo" />
+    <string name="pref_key_transition_time" />
+</resources>
